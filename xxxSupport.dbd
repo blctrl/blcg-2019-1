@@ -1,0 +1,3 @@
+include "xxxRecord.dbd"
+device(xxx,CONSTANT,devXxxSoft,"blcBrake")
+device(xxx,CONSTANT,devjwh,"jwh")

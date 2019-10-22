@@ -1,0 +1,2 @@
+include "blcRecord.dbd"
+device(blc,CONSTANT,devblcSoft,"blcBrake")
